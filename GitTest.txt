@@ -1,2 +1,0 @@
-This is Git Test
-Added new branch
